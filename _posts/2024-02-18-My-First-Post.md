@@ -1,7 +1,7 @@
 ---
 title: First Post
 author: cotes
-date: 2024-02-18 12:53:00 +0800
+date: 2024-02-8 12:53:00 +0800
 categories: [Blogging, Demo]
 tags: [typography]
 pin: true
@@ -10,9 +10,11 @@ mermaid: true
 ---
 
 
-## MY FIRST POST
+## MY FIRST POST Meow
 
-# Test
+# Test 
+
+# Meow Meow Mewo
 
 ## Test Paragraph
 
