@@ -1,5 +1,5 @@
 ---
-title: First Issue
+title: First Issue - Fuel Tank
 author: hunter
 date: 2021-04-06 17:38:00 +0800
 categories: [Cars, Miata]
