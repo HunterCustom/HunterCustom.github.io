@@ -8,5 +8,5 @@ tags: [miata]
 
 # Winter Storage
 
-Placed the miata into winter storage as I live in CT and we got salt, this car has no rust and I want to keep it like that
+Placed the Miata into winter storage since I live in CT, and we get salt on the roads. This car has no rust, and I intend to keep it that way.
 <img src="https://raw.githubusercontent.com/HunterCustom/HunterCustom.github.io/master/assets/img/image_2024-02-18_000626159.png" alt="Miata in storage">
