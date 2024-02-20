@@ -24,6 +24,7 @@ After browsing through the wide selection on his website, I was torn between the
 
 ### Almost Done
 As seen below, the new steering wheel and dash looked great together. However, I felt that the OEM Nardio logo airbag seemed a bit outdated for this steering wheel. Consequently, I visited a local junkyard where I found a wrecked 2003 Mazda Protege. I retrieved the airbag from that car and installed it into the Miata, and the result is stunning.
+\
 <img src="https://github.com/HunterCustom/HunterCustom.github.io/blob/master/assets/img/image_2024-02-18_000808977.png?raw=true" alt="No Airbag Wheel and Dash" width="650" height="854">
 
 ## Stunnting Outcome
