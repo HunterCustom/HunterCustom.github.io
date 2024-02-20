@@ -1,7 +1,7 @@
 ---
 title: Miata's First Winter Storage
 author: hunter
-date: 2021-08-15 11:49:00 +0800
+date: 2021-08-15 11:48:00 +0800
 categories: [Cars, Miata]
 tags: [miata]
 ---
