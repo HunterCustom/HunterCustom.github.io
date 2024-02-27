@@ -38,3 +38,7 @@ Each step required careful attention to detail, but with patience and diligence,
 So, to up the cool factor on my Miata's cooling game, I figured I'd go with the crowd favorite and slap on the SuperMiata Coolant Reroute along with the SuperMiata CFS Radiator. I mean, why not, right? With these bad boys working together, I'm expecting some serious chill vibes under the hood, no matter what kind of heat I throw at it. Just hoping it'll keep things breezy and smooth, whether I'm cruising down the highway or tearing it up on the track.
 
 ## New Wheels and Tires!
+
+In addition to doing the 60,000 mile maintenance on the vehicle, I have opted to enhance its performance and aesthetic appeal by installing new rims and tires. Specifically, I have selected the bronze Konig Hexagram 15x8 +25 rims paired with Hankook RS4 225/45/15 tires, a choice informed by extensive research and online recommendations.
+
+One aspect that greatly facilitated this upgrade was the opportunity afforded by my old employer to independently mount and balance tires. This experience not only underscored my technical proficiency but also instilled a sense of confidence in managing such automotive enhancements.
