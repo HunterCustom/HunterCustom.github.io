@@ -49,4 +49,5 @@ One aspect that greatly facilitated this upgrade was the opportunity afforded by
 
 ![Miata on Alignment](https://raw.githubusercontent.com/HunterCustom/HunterCustom.github.io/master/assets/img/60k%20Maint/IMG_6236_jpg.jpg)
 With the need for a well-set-up wheel configuration and the use of sticky tires, I realized the importance of having an alignment that could unleash the full potential of these tires. Thanks to Pat at Gorman Performance Engineering, I now have the best driving experience I've ever had. This car feels like it's glued to the road—it's absolutely incredible.
-[<a href="assets/img/60k Maint/Pat Alignment spec sheet.pdf" target="_blank">Alignment Spec Sheet</a>](https://github.com/HunterCustom/HunterCustom.github.io/blob/master/assets/img/60k%20Maint/Pat%20Alignment%20spec%20sheet.pdf)
+
+Alignment Spec Sheet needs to be insert, someone plese remind me of this so I don't forget.
