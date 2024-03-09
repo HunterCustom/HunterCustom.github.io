@@ -6,17 +6,9 @@ categories: [HomeLab, Server]
 tags: [Dell, R730, Home Lab, Server, PC Specs]
 ---
 
-# Here's the improved version of your blog post:
-
----
-title: Home Server Specs
-author: Hunter
-date: 2024-01-01 11:43:00 +0800
-categories: [HomeLab, Server]
-tags: [Dell, R730, Home Lab, Server, PC Specs]
-
 # My Home Lab Specs & Plans
 
+## Dell R730
 - iDRAC Enterprise
 - All 3 Risers 
 - 2 x 1100-watt power supply
@@ -31,7 +23,12 @@ Connected to a Dell MD1200 via a Dell H810:
 - MD1200
 - 12 3.5" HGST 8TB 7200RPM Drives
 
-Currently, the system is set up on Unraid, running a Jellyfin Media Server. However, due to power usage, I've shifted 24/7 tasks to a Lenovo M900 with an i7-6700 and 32GB of DDR4 RAM.
+Currently, the system is set up on Unraid, running a Jellyfin Media Server. However, due to power usage, I've shifted 24/7 tasks to a Lenovo M900
+
+## Lenovo M900
+- 256GB Samsung 870 Evo
+- 32GB of non ecc RAM
+- i7-6700
 
 The M900 Runs:
 - Vaultwarden
@@ -44,6 +41,7 @@ The M900 Runs:
 
 Current Plans are to convert my original server into a 2u Chassis and load the M900 features onto this as my original server supports ECC RAM.
 
+## Orginal Server
 The specs for that server are currently:
 - Supermicro X10SAE
 - i7-4709k
