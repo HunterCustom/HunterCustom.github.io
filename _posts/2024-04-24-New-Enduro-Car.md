@@ -1,9 +1,9 @@
 ---
 title:A New Enduro Race Car
 author: hunter
-date: 2024-04-17 11:43:00 +0800
+date: 2024-04-24 8:57:00 +0800
 categories: [Cars, Enduro]
-tags: [track, Enduro, Waterford SpeedBowl, honda accord]
+tags: [track, enduro, waterford-speedbowl, honda-accord]
 ---
 
 # A New Car for the Waterford SpeedBowl Enduro Races
