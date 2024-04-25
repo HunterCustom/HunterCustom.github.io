@@ -1,5 +1,5 @@
 ---
-title:A New Enduro Race Car
+title: A New Enduro Race Car
 author: hunter
 date: 2024-04-24 8:57:00 +0800
 categories: [Cars, Enduro]
