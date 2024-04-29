@@ -8,6 +8,7 @@ tags: [miata, spec, track]
 
 # Gorman Perforamce Spring Shakdown 2.0 Race
 
+![miata on track at gormen 2](assets/img/LF3C1570.jpg)
 Race day was an absolute blast! I had the opportunity to engage in a mix of FPV racing, but unfortunately, my 7" drone already met its demise. On the bright side, I managed to secure a spot in the top 10 of my class for the time trial.
 
 According to Pat's PDF in my class, "Non-American Muscle," I clinched 8th place with a time of 47.232 for the layout of the day. That's 8th out of 32 drivers! I didn't realize I was that fast.
