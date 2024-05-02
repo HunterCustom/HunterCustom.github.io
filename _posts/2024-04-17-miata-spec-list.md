@@ -6,7 +6,7 @@ categories: [Cars, Miata]
 tags: [miata, spec, mods, track]
 ---
 
-![My Miata](assets/img/_DSC2064.heic)
+![My Miata](https://www.facebook.com/photo.php?fbid=3980494095510351&set=pb.100006493983702.-2207520000&type=3)
 
 # 1999 Mazda Miata 
 ### Driven by Hunter F. Kovel
