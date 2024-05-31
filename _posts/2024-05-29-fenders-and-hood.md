@@ -38,7 +38,12 @@ Now the fun and most planned out part I had ordered these hood vents from rgr.en
 ![Masking Tape](https://i.imgur.com/lsAWWFW.jpeg)
 next step was planning what we would be cutting. were cutting 5 holes for 5 different vents, maximum cooling and maximum pressure release 
 ![planning cuts](https://i.imgur.com/ThTKw1h.jpeg)
-unfortentutly because I didn't take many photos during the cutting process, I just have final results of the photo
+unfortentutly because I didn't take many photos during the cutting process, I just have final results of the photo. so here is the Miata with the holes cut into the hood 
 ![final cuts](https://i.imgur.com/q9QoDPB.jpeg)
-
-alright it is 1am Ill come back to writing this later. 
+and here is the hood with the vents rivited onto the hole, it looks great
+![hood rivited](https://i.imgur.com/FJXjimB.jpeg)
+Next two photos are just me working on the fender/hood alignments but still felt like they could be included hear
+![fender 1](https://i.imgur.com/dOy1Dwc.jpeg)
+![fender 2](https://i.imgur.com/4X4fgKj.jpeg)
+and here is the finished result, sadly couldnt get the hood alignment to be perfect due to the sliglty bent frame but thats okay cuz race car... and you bet your ass I love her
+![Love of my life](https://i.imgur.com/Aa2n5Fq.jpeg)
