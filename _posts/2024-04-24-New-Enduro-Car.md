@@ -11,4 +11,4 @@ tags: [track, enduro, waterford-speedbowl, honda-accord]
 And tonight after work I picked up lovely looking 1996 Honda Accord for the Waterford SpeedBowl compact enduro races. its a lovely spray painted white with weed plants all over it
 (hunter please enter a photo of the car before you paint it)
 
-![Photo of the waterford car on pickup](assets/img/IMG_8054.heic)
+![Photo of the waterford car on pickup](assets/img/image_2024-06-23_004148704.png)
