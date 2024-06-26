@@ -1,7 +1,7 @@
 ---
 title: Car Numbers Finally
 author: hunter
-date: 2024-05-21 11:00:00 +0800
+date: 2024-06-21 11:00:00 +0800
 categories: [Cars, Miata]
 tags: [miata, race, mods, numbers]
 ---
