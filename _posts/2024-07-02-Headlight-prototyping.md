@@ -1,10 +1,11 @@
 ---
 title: Miata Headlight Prototyping
 author: hunter
-date: 2024-07-02 168:57:00 +0800
+date: 2024-07-02 10:57:00 +0800
 categories: [Miata, Mods]
 tags: [headlight, drl, prototyping, planning]
 ---
+
 # Headlight Protyping... Again
 
 Alright so looking to redo my foggy ass headlights as last time I did them they didn't seal properly and ruined the headlight lens so I am considering ordering brand new headlights and swapping the DRLs and MLED into the new housing
