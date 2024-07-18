@@ -52,3 +52,56 @@ Total Current = 2.28A
 
 So, knowing the whole system will draw around 2.28A, I will need to find a ~12V to 5V 3A buck converter. 
 > Keep in mind when a car is running, voltage will fluctuate because of the alternator to as high as 15V.
+
+## Coding Stuff
+Current setup on a test bench setup with an Ardiuno Uno and 11 Single color LEDS. I orginally used delays for the lights but after a post on youtube someone suggested I use Millis for faster animations, used it in a simulator on tinkercard found [here](https://www.tinkercad.com/things/kmN0x3k3XpJ-headlight-animation-test)
+```
+const int startLEDPin = 3; // Start of LED pins
+const int endLEDPin = 13; // End of LED pins
+const unsigned long interval = 100; // Interval between LEDs in milliseconds
+
+int currentLEDPin = startLEDPin;
+int direction = 1; // 1 for moving right, -1 for moving left
+bool animationComplete = false;
+unsigned long previousMillis = 0;
+
+void setup() {
+  // Initialize all the LED pins as outputs
+  for (int pin = startLEDPin; pin <= endLEDPin; pin++) {
+    pinMode(pin, OUTPUT);
+    digitalWrite(pin, LOW); // Ensure all LEDs are off initially
+  }
+}
+
+void loop() {
+  if (!animationComplete) {
+    unsigned long currentMillis = millis();
+
+    // Check if it's time to move to the next LED
+    if (currentMillis - previousMillis >= interval) {
+      // Move to the next LED
+      digitalWrite(currentLEDPin, LOW); // Turn off the current LED
+      currentLEDPin += direction;
+      
+      // Check for direction change
+      if (currentLEDPin > endLEDPin) {
+        direction = -1; // Change direction to left
+        currentLEDPin = endLEDPin - 1;
+      } else if (currentLEDPin < startLEDPin) {
+        direction = 1; // Change direction to right
+        currentLEDPin = startLEDPin + 1;
+        animationComplete = true; // Animation is complete
+      }
+
+      digitalWrite(currentLEDPin, HIGH); // Turn on the next LED
+      previousMillis = currentMillis; // Save the time of the last update
+    }
+  } else {
+    // Turn on all LEDs after animation is complete
+    for (int pin = startLEDPin; pin <= endLEDPin; pin++) {
+      digitalWrite(pin, HIGH);
+    }
+  }
+}
+
+```
