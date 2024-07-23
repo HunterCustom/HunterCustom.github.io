@@ -105,3 +105,11 @@ void loop() {
 }
 
 ```
+
+## Starting the Work
+I was fianlly able to convince dad to let me bake open at least one headlight light, so that's exactly what I've done and here is a quick rundown of how I did it
+uninstalled headlight on miata > preheat oven to 185°F > Place headlight inside oven on a layer of parchment paper > bake for 10 min > Pull headlight out of oven > use a flat head to seperate headlight than pull apart.
+
+However if I was going to be reusing this headlight do not use a flathead as you could ruin the seal, morimotot makes a special tool to open headlights. just use that I couldn't find mine this day and since I wasn't going to reuse the headlight I didn't care. but Now only grabbing messurements for the DRLs.
+
+Oh and I had also orderd the apollo 2.0 Full and Flat projector shrounds as they will become the new shrounds with these DRLs. will provide photos once I format them correctly
