@@ -1,5 +1,5 @@
 ---
-title: Vandalism to the miata
+title: Vandalism to The Miata
 author: Hunter
 date: 2024-06-28 12:57:00 +0800
 categories: [Miata, damage]
@@ -20,6 +20,8 @@ This caused a mild panic attack for me, as I was scared to go back to bed and wa
 
 I woke up at 6 AM the next morning and just left the house, specifically not waking up the dog. I got in the Miata and left, had a really fun time at the event, and then instead of going home, I met up with my girlfriend Lee. While we were out and about, we noticed this damage to the Miata:
 
+
+***Fix the images***
 ![Headlight](assets/img/74139789469__4BFC6688-DE27-428F-B0FD-C77E4988564F.fullsizerender.HEIC) ![Fender](assets/img/74139790694__DE32A206-13B4-4FF3-94FE-846707CFDCBF.fullsizerender.HEIC).
 
 Yup, that's right, somebody keyed the Miata. But as someone who knows that car and every dent on it and when it occurred (yes, I'm insane), I found it really convenient that my Miata suddenly had a key mark on it after Yvette's shenanigans that night.
