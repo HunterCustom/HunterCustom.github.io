@@ -113,3 +113,9 @@ uninstalled headlight on miata > preheat oven to 185°F > Place headlight inside
 However if I was going to be reusing this headlight do not use a flathead as you could ruin the seal, morimotot makes a special tool to open headlights. just use that I couldn't find mine this day and since I wasn't going to reuse the headlight I didn't care. but Now only grabbing messurements for the DRLs.
 
 Oh and I had also orderd the apollo 2.0 Full and Flat projector shrounds as they will become the new shrounds with these DRLs. will provide photos once I format them correctly
+
+### Trimming Shrouds
+So I have finally started to trim my headlight shround I was unable to find my dremel though so I decided to just use my flush cutters... This was a horrible choice to the point where I just went out and bought a new dremel. It made this project so much easier, anyways I have only cut the tops and the bottoms of the shroud as the sides do fit great inside the headlight with the projector. this was fairly simple to do but time consuming as I constantly made tiny cuts and improvements until I got a result that I like and will be implementing. Now onto the designing of the DRL
+
+## DRL Designs
+First design is a very rough shape that is 7.5mm wide. I have found the 12v to 5v converter I am using is 10.5mm wide and the Xaia ESP32C3 is 17.5mm wide so I will be looking into some different micro controllers for this project without the ability of wireless reprogramming. or another way to locate the ESP32
