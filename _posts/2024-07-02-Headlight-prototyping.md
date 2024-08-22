@@ -114,8 +114,37 @@ However if I was going to be reusing this headlight do not use a flathead as you
 
 Oh and I had also orderd the apollo 2.0 Full and Flat projector shrounds as they will become the new shrounds with these DRLs. will provide photos once I format them correctly
 
-### Trimming Shrouds
-So I have finally started to trim my headlight shround I was unable to find my dremel though so I decided to just use my flush cutters... This was a horrible choice to the point where I just went out and bought a new dremel. It made this project so much easier, anyways I have only cut the tops and the bottoms of the shroud as the sides do fit great inside the headlight with the projector. this was fairly simple to do but time consuming as I constantly made tiny cuts and improvements until I got a result that I like and will be implementing. Now onto the designing of the DRL
+<!-- Major Split in topics but it works -->
 
-## DRL Designs
-First design is a very rough shape that is 7.5mm wide. I have found the 12v to 5v converter I am using is 10.5mm wide and the Xaia ESP32C3 is 17.5mm wide so I will be looking into some different micro controllers for this project without the ability of wireless reprogramming. or another way to locate the ESP32
+### Trimming Shrouds
+
+I began by trimming the headlight shroud but couldn't find my Dremel, so I had to use some flush cutters I had on hand.
+
+![first cuts](assets/img/headlight/IMG_0094.jpg)
+
+The image shows my first few hours of cutting, where I managed to remove most of the bottom half and a small portion of the top. However, as I continued, the process became tedious, with me making increasingly smaller cuts. Realizing I was spending too much time on this, I decided to invest in a new Dremel. It was absolutely worth the money, as it made quick, clean work of the headlight shroud, unlike the flush cutters.
+
+![close to final result](assets/img/headlight/IMG_0161.jpg)
+
+This image shows the headlight in an almost finished state. Once I was satisfied with the trimming, I began working on the custom DRL (Daytime Running Light) dimensions.
+
+### DRL Designs
+
+Using Fusion 360, I created a rough draft for the DRL headlight design and took measurements with a digital caliper.
+
+![first print](assets/img/headlight/IMG_0199.jpg)
+
+As you can see, my first print fit decently, but I felt it was too sharp and steep for the style I wanted, similar to the M4 headlights. I decided to go back and redesign with improved measurements, leading me to this version.
+
+![another design, unsure which number](assets/img/headlight/IMG_0204.jpg)
+
+In this photo, I'm holding the DRL in the wrong direction, which eventually led to several different designs. Finally, I settled on the following.
+
+![semi-final design](assets/img/headlight/IMG_0205.jpg)
+
+This is by far my favorite design, but I need to make the shape follow the curve of the headlight. The only way I could figure out how to do this was to create a 3D scan of the headlight. However, reflective surfaces don't work well with 3D scanning, so I decided to do the only thing I could think of.
+
+![TAPE1](assets/img/headlight/IMG_0208.jpg) ![Tape2](assets/img/headlight/IMG_0216.jpg)
+
+
+As of writing this last section. Im currently working on taking the scan I got from this headlight and adapting my shaping to it 
